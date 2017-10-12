@@ -1,3 +1,3 @@
 ## Some useful pages
 
-... links should go here when I figure out where they'll be. :)
+* A [demonstration page](react-smooth-marquee/demo.html) for [react-smooth-marquee](https://github.com/jh3141/react-smooth-marquee)
